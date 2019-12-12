@@ -1,3 +1,4 @@
 def first_challenge
-   epic_tragedy = {:mintague, :capulet}
+   epic_tragedy = {:mintague, 
+   :capulet}
 end
